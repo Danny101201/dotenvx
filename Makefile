@@ -1,0 +1,2 @@
+setUP:
+	npx dotenv-vault@latest new vlt_c02767a049e5a00264e77455be89edbc76afefa76c1e9bf66c3ebb8087d4662e
